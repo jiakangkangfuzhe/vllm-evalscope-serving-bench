@@ -1,0 +1,7 @@
+model: posttrain-model
+base_url: http://127.0.0.1:8000/v1
+input: data/toy_gsm8k.jsonl
+output_dir: results/sweep
+concurrency: [1, 2, 4, 8, 16, 32]
+max_tokens: 256
+temperature: 0.0

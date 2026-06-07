@@ -1,0 +1,3 @@
+{"id": "toy-001", "question": "Tom has 2 apples and buys 3 more. How many apples does he have?", "gold_answer": "5"}
+{"id": "toy-002", "question": "A box has 4 bags with 6 candies each. How many candies are there?", "gold_answer": "24"}
+{"id": "toy-003", "question": "If a train travels 60 miles per hour for 2 hours, how many miles does it travel?", "gold_answer": "120"}

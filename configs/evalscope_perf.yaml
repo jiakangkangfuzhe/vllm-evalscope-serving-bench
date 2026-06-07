@@ -1,0 +1,10 @@
+url: http://127.0.0.1:8000/v1/chat/completions
+model: posttrain-model
+parallel: 16
+number: 128
+api: openai
+dataset: random
+min_prompt_length: 128
+max_prompt_length: 512
+min_output_length: 64
+max_output_length: 256
